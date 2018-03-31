@@ -1,0 +1,6 @@
+package com.itcast.helloword;
+  public class myHelloWorld{
+    public static void main(){
+      System.out.println("helloWorld");
+    }
+}
